@@ -1,1 +1,1 @@
-Initial workspace data for crm-system
+Initial workspace for crm-system

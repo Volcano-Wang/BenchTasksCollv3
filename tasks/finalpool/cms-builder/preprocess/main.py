@@ -1,3 +1,2 @@
-# Preprocess script for cms-builder
-
-pass
+# Preprocessing script
+print('Preprocessing completed')

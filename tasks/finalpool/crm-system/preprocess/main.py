@@ -1,3 +1,2 @@
-# Preprocess script for crm-system
-
-pass
+# Preprocessing script
+print('Preprocessing completed')

@@ -1,3 +1,2 @@
-# Preprocess script for content-scheduler
-
-pass
+# Preprocessing script
+print('Preprocessing completed')

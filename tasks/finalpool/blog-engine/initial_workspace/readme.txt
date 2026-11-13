@@ -1,1 +1,1 @@
-Initial workspace data for blog-engine
+Initial workspace for blog-engine

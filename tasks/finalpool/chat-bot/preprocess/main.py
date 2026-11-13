@@ -1,3 +1,2 @@
-# Preprocess script for chat-bot
-
-pass
+# Preprocessing script
+print('Preprocessing completed')

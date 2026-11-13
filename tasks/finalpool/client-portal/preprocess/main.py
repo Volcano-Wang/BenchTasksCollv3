@@ -1,3 +1,2 @@
-# Preprocess script for client-portal
-
-pass
+# Preprocessing script
+print('Preprocessing completed')

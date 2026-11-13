@@ -1,1 +1,1 @@
-Initial workspace data for content-manager
+Initial workspace for content-manager

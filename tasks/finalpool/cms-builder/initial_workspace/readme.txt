@@ -1,1 +1,1 @@
-Initial workspace data for cms-builder
+Initial workspace for cms-builder

@@ -1,1 +1,1 @@
-Initial workspace data for chat-bot
+Initial workspace for chat-bot

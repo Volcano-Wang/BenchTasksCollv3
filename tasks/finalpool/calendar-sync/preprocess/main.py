@@ -1,3 +1,2 @@
-# Preprocess script for calendar-sync
-
-pass
+# Preprocessing script
+print('Preprocessing completed')

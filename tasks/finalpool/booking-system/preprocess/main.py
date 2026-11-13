@@ -1,3 +1,2 @@
-# Preprocess script for booking-system
-
-pass
+# Preprocessing script
+print('Preprocessing completed')

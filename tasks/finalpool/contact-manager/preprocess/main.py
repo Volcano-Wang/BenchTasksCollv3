@@ -1,3 +1,2 @@
-# Preprocess script for contact-manager
-
-pass
+# Preprocessing script
+print('Preprocessing completed')

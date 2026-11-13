@@ -1,1 +1,1 @@
-Initial workspace data for booking-system
+Initial workspace for booking-system

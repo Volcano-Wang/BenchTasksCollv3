@@ -1,3 +1,2 @@
-# Preprocess script for content-manager
-
-pass
+# Preprocessing script
+print('Preprocessing completed')

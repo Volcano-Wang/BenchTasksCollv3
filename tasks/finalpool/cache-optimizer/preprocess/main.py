@@ -1,3 +1,2 @@
-# Preprocess script for cache-optimizer
-
-pass
+# Preprocessing script
+print('Preprocessing completed')

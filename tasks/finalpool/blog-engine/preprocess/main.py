@@ -1,3 +1,2 @@
-# Preprocess script for blog-engine
-
-pass
+# Preprocessing script
+print('Preprocessing completed')
